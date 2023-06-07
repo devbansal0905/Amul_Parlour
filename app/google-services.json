@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548828518985",
+    "firebase_url": "https://amulparlourlnmiit-default-rtdb.firebaseio.com",
+    "project_id": "amulparlourlnmiit",
+    "storage_bucket": "amulparlourlnmiit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548828518985:android:eee99a0978b96c82b33d98",
+        "android_client_info": {
+          "package_name": "com.example.groceryshoppingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548828518985-4tbkpf9j0deoigui7l9m1in0n5h4ml7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rrcsxN-llGgIS2BjRXeQ5M0P45Uuf1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548828518985-4tbkpf9j0deoigui7l9m1in0n5h4ml7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
